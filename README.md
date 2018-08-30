@@ -1,4 +1,4 @@
-# Ratecheck
+# RateCheck
 This script recursively scans a folder for mp3s and outputs the results to a .csv. Handy for identifying low quality bitrates.
 
 ## Requires:
